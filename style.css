@@ -1,0 +1,97 @@
+/* BASIC CSS FOR YOUTH EMPOWERMENT WEBSITE */
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333333;
+    margin: 0;
+}
+
+/* Header */
+header{
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Center the navigation links */
+header a{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+header a:hover{
+    color: yellow;
+}
+
+/* Main content */
+main{
+    width: 80%;
+    margin: auto;
+}
+
+/* Sections */
+div{
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #cccccc;
+}
+
+
+
+/* Headings */
+h1{
+    color: white;
+}
+
+h2{
+    color: #2E8B57;
+}
+
+h3{
+    color: #2E8B57;
+}
+
+h4{
+    color: #2E8B57;
+}
+
+h5{
+    color: #2E8B57;
+}
+
+h6{
+    color: #2E8B57;
+}
+
+/* Paragraphs */
+p{
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Center links in the Contact section */
+main a{
+    display: block;
+    text-align: center;
+    color: #2E8B57;
+    text-decoration: none;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+main a:hover{
+    color: darkgreen;
+}
+
+/* Footer */
+footer{
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
